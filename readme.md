@@ -1,0 +1,1 @@
+Imprima a soma das idades (dica: utilize reduce)
